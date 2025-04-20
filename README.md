@@ -33,7 +33,24 @@ Udemy 강의 [누구나 따라할 수 있는 iOS 클론코딩](https://www.udemy
 - **실제 앱 클론을 통한 실전 감각 향상**: 실 서비스인 Instagram을 클론하며 앱 구조와 흐름에 대한 감각을 익힘
 
 ## 📷 스크린샷  
-> (여기에 앱 실행 화면 스크린샷을 추가하면 좋습니다.)
+
+### 1. 🔐 로그인 / 회원가입 화면
+<img src="https://github.com/user-attachments/assets/b66201aa-d2a0-47bb-961e-632ad8d6069b" width="250"/>
+<img src="https://github.com/user-attachments/assets/c25c2ac0-dcc2-4434-b7ab-57b62f4ef5f1" width="250"/>
 
 ---
 
+### 2. 🎬 릴스 화면
+<img src="https://github.com/user-attachments/assets/dbd4bad8-a34b-4ecd-a504-6633988610e4" width="250"/>
+
+---
+
+### 3. 🏠 메인 피드 화면
+<img src="https://github.com/user-attachments/assets/c71fa3d3-87dc-498d-8f3d-1a8b8ecb7156" width="250"/>
+<img src="https://github.com/user-attachments/assets/81b87bbd-ff92-4bea-bc28-f827c897d444" width="250"/>
+<img src="https://github.com/user-attachments/assets/3c0825a3-3e17-40de-a007-49fb07514f7e" width="250"/>
+
+---
+
+### 4. 👤 유저 프로필 화면
+<img src="https://github.com/user-attachments/assets/fcba48f6-1e90-461a-a76a-a83e2cb107ca" width="250"/>
