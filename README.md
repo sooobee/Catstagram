@@ -50,7 +50,3 @@ Udemy 강의 [누구나 따라할 수 있는 iOS 클론코딩](https://www.udemy
 <img src="https://github.com/user-attachments/assets/81b87bbd-ff92-4bea-bc28-f827c897d444" width="250"/>
 <img src="https://github.com/user-attachments/assets/3c0825a3-3e17-40de-a007-49fb07514f7e" width="250"/>
 
----
-
-### 4. 👤 유저 프로필 화면
-<img src="https://github.com/user-attachments/assets/fcba48f6-1e90-461a-a76a-a83e2cb107ca" width="250"/>
